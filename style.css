@@ -1,0 +1,41 @@
+body
+{
+text-align: center;
+background-position: center;
+background-size: cover;
+}
+.heading
+{
+width: 100%;;
+text-align: left;
+}
+.heading button
+{
+float: right;
+border: 4px white;
+}
+.heading h3
+{
+display: inline;
+}
+h2
+{
+margin-top: 10px;
+margin-bottom: 0px;
+background-color: white;
+}
+.modal-dialog
+{
+width: 70%;
+}
+.modal-body
+{
+text-align: left;
+font-size: 20px;
+}
+canvas
+{
+border: 4px soild white;
+border-radius: 20px;
+box-shadow: 5px 5px 5px blue;
+}
